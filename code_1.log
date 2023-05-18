@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 19:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 19:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1448,6 +1448,9 @@ Overfull \hbox (126.0pt too wide) in paragraph at lines 251--254
 
 
  <./Figures/Block_Diagram.jpg>] (./code_1.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 Package rerunfilecheck Info: File `code_1.out' has not changed.
 (rerunfilecheck)             Checksum: F348777853CD6B20DBC87E5D92D38CDB;772.
  ) 
