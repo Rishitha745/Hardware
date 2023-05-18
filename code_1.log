@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 19:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 20:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1448,9 +1448,6 @@ Overfull \hbox (126.0pt too wide) in paragraph at lines 251--254
 
 
  <./Figures/Block_Diagram.jpg>] (./code_1.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `code_1.out' has not changed.
 (rerunfilecheck)             Checksum: F348777853CD6B20DBC87E5D92D38CDB;772.
  ) 
@@ -1469,7 +1466,7 @@ mf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313
 /share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texli
 ve/20230313/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Ce
 llar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on code_1.pdf (3 pages, 325583 bytes).
+Output written on code_1.pdf (3 pages, 325733 bytes).
 PDF statistics:
  96 PDF objects out of 1000 (max. 8388607)
  76 compressed objects within 1 object stream
