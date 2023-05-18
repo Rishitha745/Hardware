@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 19:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1419,7 +1419,7 @@ File: Figures/Circuit_Image.jpeg Graphic file (type jpg)
 Package pdftex.def Info: Figures/Circuit_Image.jpeg  used on input line 244.
 (pdftex.def)             Requested size: 378.0pt x 498.59003pt.
 
-Overfull \hbox (126.0pt too wide) in paragraph at lines 244--245
+Overfull \hbox (126.0pt too wide) in paragraph at lines 244--246
  [][] 
  []
 
@@ -1434,21 +1434,26 @@ c/dvips/base/8r.enc}
 ] [2
 
  <./Figures/Circuit_Image.jpeg>]
-<Figures/Block_Diagram.jpeg, id=58, 291.0875pt x 337.26pt>
-File: Figures/Block_Diagram.jpeg Graphic file (type jpg)
-<use Figures/Block_Diagram.jpeg>
-Package pdftex.def Info: Figures/Block_Diagram.jpeg  used on input line 252.
-(pdftex.def)             Requested size: 252.0pt x 291.97804pt.
- [3
+<Figures/Block_Diagram.jpg, id=57, 582.175pt x 576.1525pt>
+File: Figures/Block_Diagram.jpg Graphic file (type jpg)
+<use Figures/Block_Diagram.jpg>
+Package pdftex.def Info: Figures/Block_Diagram.jpg  used on input line 252.
+(pdftex.def)             Requested size: 378.0pt x 374.09906pt.
+
+Overfull \hbox (126.0pt too wide) in paragraph at lines 251--254
+ [] 
+ []
+
+[3
 
 
- <./Figures/Block_Diagram.jpeg>] (./code_1.aux)
+ <./Figures/Block_Diagram.jpg>] (./code_1.aux)
 Package rerunfilecheck Info: File `code_1.out' has not changed.
-(rerunfilecheck)             Checksum: E5C3750A61C125B0EE1DDD2289595295;762.
+(rerunfilecheck)             Checksum: F348777853CD6B20DBC87E5D92D38CDB;772.
  ) 
 Here is how much of TeX's memory you used:
- 29987 strings out of 476025
- 603222 string characters out of 5780034
+ 29986 strings out of 476025
+ 603204 string characters out of 5780034
  1875388 words of memory out of 5000000
  49773 multiletter control sequences out of 15000+600000
  576546 words of font info for 157 fonts, out of 8000000 for 9000
@@ -1461,10 +1466,10 @@ mf-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313
 /share/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></opt/homebrew/Cellar/texli
 ve/20230313/share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></opt/homebrew/Ce
 llar/texlive/20230313/share/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on code_1.pdf (3 pages, 319417 bytes).
+Output written on code_1.pdf (3 pages, 325583 bytes).
 PDF statistics:
- 100 PDF objects out of 1000 (max. 8388607)
- 79 compressed objects within 1 object stream
- 22 named destinations out of 1000 (max. 500000)
+ 96 PDF objects out of 1000 (max. 8388607)
+ 76 compressed objects within 1 object stream
+ 20 named destinations out of 1000 (max. 500000)
  71 words of extra memory for PDF output out of 10000 (max. 10000000)
 
